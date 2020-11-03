@@ -1,5 +1,5 @@
 /***********promise*********/
-import "./promise";
+// import "./promise";
 
 /***********正则*********/
-// import "./regular";
+import "./regular";
